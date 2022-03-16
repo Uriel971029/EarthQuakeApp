@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EarthQuakeApp</string>
+    <string name="place_text_adapter">Lugar: %1$s</string>
+    <string name="date_text_adapter">Fecha y hora: %1$s</string>
+    <string name="mag_text_adapter">Magnitud: %1$s</string>
+    <string name="latitude_text_adapter">Latitud: %1$s</string>
+    <string name="longitude_text_adapter">Longitud: %1$s</string>
+</resources>
