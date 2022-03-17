@@ -1,7 +1,10 @@
 package com.example.earthquakeapp.data.local
 
 
-data class Earthquake(val id: String, val magnitude : Double, val place : String, val time: Long, val coordinates: Array<Double>) {
+data class Earthquake(val id: String,
+                      val magnitude : Double,
+                      val place : String, val time: Long,
+                      val coordinates: Array<Double>) {
 
     override fun equals(other: Any?): Boolean {
         if (this === other) return true

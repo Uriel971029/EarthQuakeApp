@@ -8,7 +8,6 @@ import kotlinx.coroutines.withContext
 
 class EarthquakeRepository {
 
-
     private val filteredList = mutableListOf<Earthquake>()
 
     suspend fun refreshEarthquakes(): List<Earthquake> {
