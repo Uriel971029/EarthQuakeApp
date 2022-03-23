@@ -5,4 +5,6 @@
     <string name="mag_text_adapter">Magnitud: %1$s</string>
     <string name="latitude_text_adapter">Latitud: %1$s</string>
     <string name="longitude_text_adapter">Longitud: %1$s</string>
+    <string name="filter_major_magnitude">Ordenar de mayor a menor</string>
+    <string name="filter_menor_magnitude">Ordenar de menor a mayor</string>
 </resources>
